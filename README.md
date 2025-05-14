@@ -24,7 +24,7 @@ The project consists of a testimonials section that displays multiple user testi
 ### Links
 
 - Solution URL: [GitHub](https://github.com/boompow/testimonials-grid-section)
-- Live Site URL: [Vercel](https://testimonials-grid-section-main.vercel.app)
+- Live Site URL: [Vercel](https://testimonials-grid-section-sigma-one.vercel.app/)
 
 ## Built With
 
